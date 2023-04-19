@@ -1,0 +1,32 @@
+#userTable,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+.heading{
+    font-weight: bold;
+    padding: 10px;
+}
+#userTable {
+    margin: auto;
+    max-width: 50%;
+}
+.navBarLink{
+    display: inline;
+    float: right;
+}
+#navBar{
+    list-style-type: none;
+    border-radius: 5px;
+    margin: 0;
+    padding: 10px;
+    overflow: auto;
+    background-color: black;
+}
+.navBarLink a{
+    text-decoration : none;
+    font-weight: bolder;
+    margin-left: 10px;
+    color: white;   
+}
+

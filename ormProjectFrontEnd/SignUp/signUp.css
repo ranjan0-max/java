@@ -1,0 +1,32 @@
+#signUpBox{
+    text-align: center;
+    margin-top: 100px;
+}
+#inputFields{
+    border: 2px solid black;
+    background-color: white;
+    max-width: 400px;
+    margin:auto;
+    border-radius: 5px;
+    padding : 60px 40px;
+    box-shadow: 5px 5px gray;
+    height: 400px;
+}
+input{
+    height: 30px;
+    width: 250px;
+}
+input:hover{
+    width: 260px;
+    font-size: 18px;
+}
+input[type="submit"]{
+    background-color: rgb(86, 230, 67);
+    border: none;
+    max-width: 50%;
+    border-radius: 5px;
+}
+input[type="submit"]:hover {
+    box-shadow: 5px 5px gray;
+    font-weight: bolder;
+}

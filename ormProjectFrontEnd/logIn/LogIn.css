@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(212, 210, 210);
+}
+input{
+    height: 50px;
+    letter-spacing: 2px;
+    width: 350px;
+    max-width: 90%;
+}
+input:hover{
+    width: 400px;
+    font-weight: bolder;
+}
+#mainContainor{
+    text-align: center;
+    margin-top: 12%;    
+}
+#inputContainor{
+    border: 1px solid black;
+    max-width: 400px;
+    margin: auto;
+    height: 250px;
+    box-shadow: 5px 5px gray;  
+    background-color: white;
+    border-radius: 5px;
+    padding : 60px 40px;
+}
+#logInButton{
+    width: 200px;
+    height: 50px;
+    color: white;
+    max-width: 80%;
+    background-color: rgb(102, 228, 71);
+    border: none;
+    border-radius: 2px;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+#logInButton:hover{
+    font-size: 21px;
+    box-shadow: 2px 2px rgb(216, 206, 206);
+}
+#signUpButton{
+    width: 300px;
+    color: white;
+    max-width: 80%;
+    border: none;
+    border-radius: 2px;
+    letter-spacing: 5px;
+    font-size: 20px;
+    height: 50px;
+    background-color: rgb(93, 156, 214);
+    overflow: hidden;
+}
+#signUpButton:hover{
+    font-size: 21px;
+    box-shadow: 2px 2px rgb(216, 206, 206);
+}
