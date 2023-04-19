@@ -1,0 +1,7 @@
+com/codeinsight/config/AppConfig.class
+com/codeinsight/service/implementation/UserServiceImplementation.class
+com/codeinsight/controller/UserController.class
+com/codeinsight/entity/User.class
+com/codeinsight/config/WebInitializer.class
+com/codeinsight/service/UserService.class
+com/codeinsight/dao/UserDao.class
